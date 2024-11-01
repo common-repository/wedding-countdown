@@ -1,0 +1,9 @@
+#countdown1 {font-weight:bold;}
+.weddingcountdown ul {background: none;list-style: none;padding: 0px;margin: 0px;}
+.weddingcountdown ul .bullets {background: none;list-style: disc;padding: 0 0 0 5px !important;margin-left: 20px !important;line-height: 25px;}
+.weddingcountdown ul .none {background: none;list-style: none;padding: 0px;margin: 0px;line-height: 25px;}
+.weddingcountdown ul .icons.bride {background: url('../images/bride.png') no-repeat;padding: 0 0 0 40px;line-height: 30px;margin-bottom: 5px;}
+.weddingcountdown ul .icons.groom {background: url('../images/groom.png') no-repeat;padding: 0 0 0 40px;line-height: 30px;margin-bottom: 5px;}
+.weddingcountdown ul .icons.date {background: url('../images/calendar.png') no-repeat;padding: 0 0 0 40px;line-height: 30px;margin-bottom: 5px;}
+.weddingcountdown ul .icons.venue {background: url('../images/venue.png') no-repeat;padding: 0 0 0 40px;line-height: 30px;margin-bottom: 5px;}
+.weddingcountdown ul .icons.countdown {background: url('../images/countdown2.png') no-repeat;padding: 0 0 0 40px;line-height: 30px;margin-bottom: 5px;}
